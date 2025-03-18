@@ -1,0 +1,5 @@
+cin,numero_electeur,nom,prenom,date_naissance,lieu_naissance,sexe,bureau_vote
+123456789,E001,Doe,John,1990-01-01,Dakar,M,Bureau 1
+987654321,E002,Smith,Jane,1985-05-15,Thiès,F,Bureau 2
+456789123,E003,Dupont,Pierre,1988-07-20,Saint-Louis,M,Bureau 3
+789123456,E004,Martin,Sophie,1992-11-30,Kaolack,F,Bureau 4
