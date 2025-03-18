@@ -1,4 +1,3 @@
-require("dotenv").config();
 const express = require("express");
 const cors = require("cors");
 const multer = require("multer");
@@ -6,10 +5,8 @@ const mysql = require("mysql2");
 const fs = require("fs");
 const crypto = require("crypto");
 const csv = require("csv-parser");
-const dotenv = require("dotenv");
 const nodemailer = require("nodemailer");
 const router = express.Router();
-dotenv.config();
 const app = express();
 app.use(cors());
 app.use(express.json());
