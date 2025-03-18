@@ -1,0 +1,6 @@
+cin,numero_electeur,nom,prenom,date_naissance,lieu_naissance,sexe,bureau_vote
+123456789,10000001,Diallo,Mamadou,1985-06-15,Dakar,M,001
+987654321,10000002,Ndiaye,Awa,1990-09-23,Thiès,F,002
+567890123,10000003,Ba,Ibrahima,1978-03-12,Kaolack,M,003
+345678901,10000004,Diop,Astou,1995-07-08,St-Louis,F,004
+789012345,10000005,Sy,Amadou,1982-11-05,Ziguinchor,M,005
